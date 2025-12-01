@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/dahiwadkardarshana-developer/indifly-assignment/static/css/main.bd48e8b9.css",
-    "main.js": "/dahiwadkardarshana-developer/indifly-assignment/static/js/main.9137a067.js",
-    "static/js/453.0cca7acb.chunk.js": "/dahiwadkardarshana-developer/indifly-assignment/static/js/453.0cca7acb.chunk.js",
-    "static/media/counterbg.svg": "/dahiwadkardarshana-developer/indifly-assignment/static/media/counterbg.5e55d58005bc9d43d01b.svg",
-    "static/media/Rectangle2.png": "/dahiwadkardarshana-developer/indifly-assignment/static/media/Rectangle2.36fe5ea6fa929c1518ec.png",
-    "static/media/Rectangle1.png": "/dahiwadkardarshana-developer/indifly-assignment/static/media/Rectangle1.f3eef44be375a59a842a.png",
-    "index.html": "/dahiwadkardarshana-developer/indifly-assignment/index.html",
-    "static/media/download6.svg": "/dahiwadkardarshana-developer/indifly-assignment/static/media/download6.fcf873c42faa1c08a416.svg",
-    "static/media/download3.svg": "/dahiwadkardarshana-developer/indifly-assignment/static/media/download3.40254e58ed454ae8a3cf.svg",
-    "static/media/download1.svg": "/dahiwadkardarshana-developer/indifly-assignment/static/media/download1.c06099d356d773b9c424.svg",
-    "main.bd48e8b9.css.map": "/dahiwadkardarshana-developer/indifly-assignment/static/css/main.bd48e8b9.css.map",
-    "main.9137a067.js.map": "/dahiwadkardarshana-developer/indifly-assignment/static/js/main.9137a067.js.map",
-    "453.0cca7acb.chunk.js.map": "/dahiwadkardarshana-developer/indifly-assignment/static/js/453.0cca7acb.chunk.js.map"
+    "main.css": "/indifly-assignment/static/css/main.6bb1ba15.css",
+    "main.js": "/indifly-assignment/static/js/main.86a584de.js",
+    "static/js/453.0cca7acb.chunk.js": "/indifly-assignment/static/js/453.0cca7acb.chunk.js",
+    "static/media/counterbg.svg": "/indifly-assignment/static/media/counterbg.5e55d58005bc9d43d01b.svg",
+    "static/media/Rectangle2.png": "/indifly-assignment/static/media/Rectangle2.36fe5ea6fa929c1518ec.png",
+    "static/media/Rectangle1.png": "/indifly-assignment/static/media/Rectangle1.f3eef44be375a59a842a.png",
+    "index.html": "/indifly-assignment/index.html",
+    "static/media/download6.svg": "/indifly-assignment/static/media/download6.fcf873c42faa1c08a416.svg",
+    "static/media/download3.svg": "/indifly-assignment/static/media/download3.40254e58ed454ae8a3cf.svg",
+    "static/media/download1.svg": "/indifly-assignment/static/media/download1.c06099d356d773b9c424.svg",
+    "main.6bb1ba15.css.map": "/indifly-assignment/static/css/main.6bb1ba15.css.map",
+    "main.86a584de.js.map": "/indifly-assignment/static/js/main.86a584de.js.map",
+    "453.0cca7acb.chunk.js.map": "/indifly-assignment/static/js/453.0cca7acb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd48e8b9.css",
-    "static/js/main.9137a067.js"
+    "static/css/main.6bb1ba15.css",
+    "static/js/main.86a584de.js"
   ]
 }
