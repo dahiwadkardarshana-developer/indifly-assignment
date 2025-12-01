@@ -1,0 +1,35 @@
+.mission-section{
+background-image: linear-gradient(to right, #01295c,#004fb3);
+}  
+.mission-text{
+    padding: 55px;
+     font-family: "Montserrat", sans-serif;
+    font-size: 28px;
+    color: #fff;
+}
+.first{
+     font-weight: 600;
+    background: linear-gradient(to right, #E5BA9F,#fff);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.second{
+    font-size: 64px;
+    font-weight: 700;
+    background: linear-gradient(to right,#FF671F,#fff, #046A38);
+   background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.third{
+  font-weight: 700;
+}
+.mission-container{
+  display: flex;
+  justify-items: center;
+}
+
+@media screen and (max-width:480px) {
+.mission-container{
+  flex-wrap: wrap;
+}
+}
